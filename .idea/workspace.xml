@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5bbce7c-73f2-4375-8cb0-5a4a12fefff2" name="Default Changelist" comment="Mera app">
+      <change afterPath="$PROJECT_DIR$/Mera_app.patch" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\cmd\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gzCXe1arG4QaNMkgjyAgV4T8CJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5bbce7c-73f2-4375-8cb0-5a4a12fefff2" name="Default Changelist" comment="" />
+      <created>1599108075200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599108075200</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Mera app">
+      <created>1599119380910</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599119380911</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Mera app">
+      <created>1599119948086</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599119948086</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Mera app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mera app" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="14" key="CommitChangelistDialog2" timestamp="1599120155826">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="428" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599120155826" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1599120133743">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599120133743" />
+    <state width="1491" height="210" key="GridCell.Tab.0.bottom" timestamp="1599111742095">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599111742095" />
+    <state width="1491" height="210" key="GridCell.Tab.0.center" timestamp="1599111742094">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599111742094" />
+    <state width="1491" height="210" key="GridCell.Tab.0.left" timestamp="1599111742094">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599111742094" />
+    <state width="1491" height="210" key="GridCell.Tab.0.right" timestamp="1599111742095">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599111742095" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1599119884298">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599119884298" />
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2" timestamp="1599120326777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599120326777" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1599111044102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1599111044102" />
+    <state x="605" y="277" key="git4idea.rebase.GitRebaseDialog" timestamp="1599120114506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="605" y="277" key="git4idea.rebase.GitRebaseDialog/0.0.1536.824@0.0.1536.824" timestamp="1599120114506" />
+  </component>
+</project>
