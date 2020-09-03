@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     Dio x= Dio();
     return MaterialApp(
       title: 'Flutter Demo',
-      darkTheme: ThemeData.dark(),
+      darkTheme: ThemeData.light(),
       themeMode: ThemeMode.system,
 
       theme: ThemeData(
